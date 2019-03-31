@@ -1,4 +1,4 @@
 import random
 
-lotto = random.randint(1, 9)
+lotto = random.randint(0, 99)
 print(lotto)
